@@ -1,2 +1,1 @@
-# email: straydev [] yandex [] com █▄▀▄▀▄▀█
-# skype: lemonrp █▄▀▄▀▄▀█
+Sample projects
