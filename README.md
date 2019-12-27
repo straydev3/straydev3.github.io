@@ -1,2 +1,2 @@
-This is an example project. You can send mail to
-straydev [] yandex [] com
+# email: straydev [] yandex [] com █▄▀▄▀▄▀█
+# skype: lemonrp █▄▀▄▀▄▀█
